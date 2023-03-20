@@ -6,7 +6,7 @@ Create Dynamic Array
 Take Input Size,Length
 Print Elements
 2.Append/Insert Element
-Write A Two Function Append And Insert The Element
+Write Two Function Append And Insert The Element
 */
 #include <iostream>
 using namespace std;
